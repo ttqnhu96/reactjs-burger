@@ -1,0 +1,3 @@
+export const RENDER_SALAD = 'RENDER_SALAD';
+export const RENDER_CHEESE= 'RENDER_CHEESE';
+export const RENDER_BEEF= 'RENDER_BEEF';
